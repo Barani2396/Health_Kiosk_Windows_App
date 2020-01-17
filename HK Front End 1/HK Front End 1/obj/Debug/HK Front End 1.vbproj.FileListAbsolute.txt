@@ -1,0 +1,30 @@
+C:\Users\Barani\Documents\Visual Studio 2012\Projects\HK Front End 1\HK Front End 1\bin\Debug\HK Front End 1.exe.config
+C:\Users\Barani\Documents\Visual Studio 2012\Projects\HK Front End 1\HK Front End 1\bin\Debug\HK Front End 1.exe
+C:\Users\Barani\Documents\Visual Studio 2012\Projects\HK Front End 1\HK Front End 1\bin\Debug\HK Front End 1.pdb
+C:\Users\Barani\Documents\Visual Studio 2012\Projects\HK Front End 1\HK Front End 1\bin\Debug\HK Front End 1.xml
+C:\Users\Barani\Documents\Visual Studio 2012\Projects\HK Front End 1\HK Front End 1\obj\Debug\HK_Front_End_1.Form1.resources
+C:\Users\Barani\Documents\Visual Studio 2012\Projects\HK Front End 1\HK Front End 1\obj\Debug\HK_Front_End_1.Resources.resources
+C:\Users\Barani\Documents\Visual Studio 2012\Projects\HK Front End 1\HK Front End 1\obj\Debug\HK Front End 1.vbproj.GenerateResource.Cache
+C:\Users\Barani\Documents\Visual Studio 2012\Projects\HK Front End 1\HK Front End 1\obj\Debug\HK Front End 1.exe
+C:\Users\Barani\Documents\Visual Studio 2012\Projects\HK Front End 1\HK Front End 1\obj\Debug\HK Front End 1.xml
+C:\Users\Barani\Documents\Visual Studio 2012\Projects\HK Front End 1\HK Front End 1\obj\Debug\HK Front End 1.pdb
+C:\Users\Barani\Documents\Visual Studio 2012\Projects\HK Front End 1\HK Front End 1\obj\Debug\HK_Front_End_1.Form2.resources
+C:\Users\Barani\Documents\Visual Studio 2012\Projects\HK Front End 1\HK Front End 1\obj\Debug\HK_Front_End_1.Form3.resources
+C:\Users\Barani\Documents\Visual Studio 2012\Projects\HK Front End 1\HK Front End 1\obj\Debug\HK_Front_End_1.Form4.resources
+C:\Users\Barani\Documents\Visual Studio 2012\Projects\HK Front End 1\HK Front End 1\obj\Debug\HK_Front_End_1.Form5.resources
+C:\Users\Barani\Documents\Visual Studio 2012\Projects\HK Front End 1\HK Front End 1\obj\Debug\Interop.MSWinsockLib.dll
+C:\Users\Barani\Documents\Visual Studio 2012\Projects\HK Front End 1\HK Front End 1\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Barani\Documents\Visual Studio 2012\Projects\HK Front End 1\HK Front End 1\obj\Debug\HK Front End 1.vbproj.ResolveComReference.cache
+C:\Users\Barani\Documents\Visual Studio 2012\Projects\HK Front End 1\HK Front End 1\bin\Debug\Interop.MSWinsockLib.dll
+C:\Users\Barani\Documents\Visual Studio 2012\Projects\HK Front End 1\HK Front End 1\bin\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Barani\Documents\Visual Studio 2012\Projects\HK Front End 1\HK Front End 1\obj\Debug\Interop.MSDataReportLib.dll
+C:\Users\Barani\Documents\Visual Studio 2012\Projects\HK Front End 1\HK Front End 1\obj\Debug\Interop.MSDATASRC.dll
+C:\Users\Barani\Temp\HK Front End 1\HK Front End 1\bin\Debug\HK Front End 1.exe.config
+C:\Users\Barani\Temp\HK Front End 1\HK Front End 1\obj\Debug\Interop.MSDataReportLib.dll
+C:\Users\Barani\Temp\HK Front End 1\HK Front End 1\obj\Debug\Interop.MSDATASRC.dll
+C:\Users\Barani\Temp\HK Front End 1\HK Front End 1\obj\Debug\Interop.MSWinsockLib.dll
+C:\Users\Barani\Temp\HK Front End 1\HK Front End 1\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Barani\Temp\HK Front End 1\HK Front End 1\obj\Debug\HK Front End 1.vbproj.ResolveComReference.cache
+C:\Users\Barani\Temp\HK Front End 1\HK Front End 1\obj\Debug\HK Front End 1.exe
+C:\Users\Barani\Temp\HK Front End 1\HK Front End 1\obj\Debug\HK Front End 1.xml
+C:\Users\Barani\Temp\HK Front End 1\HK Front End 1\obj\Debug\HK Front End 1.pdb
